@@ -6,6 +6,9 @@ This dataset is a multilingual parallel corpus of 715 climate-related public mes
 
 This dataset was developed as a project by the Computational Linguistics and Language fellows of the 2025 [Lune Two AI.Humanities.Social Sciences Research Fellowship](https://researchround.com/ai-humanities-and-social-sciences/) for graduate students in Nigeria, organised by Research Round.
 
+## Poster for Indaba
+<img width="3179" height="4494" alt="Indaba Poster (1)" src="https://github.com/user-attachments/assets/6c0a8fe3-0540-4cea-a8b9-1889010b5f7b" />
+
 ## Key Information
 
 **Languages:** English, Hausa, Yoruba, Igbo
